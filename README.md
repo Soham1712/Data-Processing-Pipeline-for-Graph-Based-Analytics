@@ -16,7 +16,7 @@ The project consists of two main phases:
             |-- interface.py
             |-- data_loader.py
             |-- tester.py
-|-- resources/
+|-- config/
     |-- neo4j-service.yaml
     |-- neo4j-values.yaml
     |-- zookeeper-setup.yaml
